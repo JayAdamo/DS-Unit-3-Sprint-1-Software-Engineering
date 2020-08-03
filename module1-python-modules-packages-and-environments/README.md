@@ -2,8 +2,6 @@
 https://github.com/JayAdamo/lambdata
 
 
-
-
 # Python Modules, Packages, and Environments
 
 Places for your code (and dependencies) to live.
